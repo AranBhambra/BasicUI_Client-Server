@@ -103,9 +103,9 @@ Example log snippet:
 ---
 
 ## Technologies Used
-- ![JavaFX](https://img.icons8.com/ios-filled/50/000000/java.png) **JavaFX**: Used for the user interface and scene transitions.
-- ![Java IO](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png) **Java I/O**: Used to log user actions and server interactions to a file.
-- ![BufferedWriter](https://img.icons8.com/ios-filled/50/000000/write.png) **BufferedWriter**: For file-based logging.
+- **JavaFX**: Used for the user interface and scene transitions.
+- **Java I/O**: Used to log user actions and server interactions to a file.
+- **BufferedWriter**: For file-based logging.
 
 ---
 
